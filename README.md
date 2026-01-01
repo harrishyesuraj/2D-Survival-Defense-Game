@@ -69,10 +69,22 @@ A fast-paced **2D survival defense game** developed in **Unity and C#**, where t
 
 ---
 
-## 🔧 How to Run
-1. Clone the repository
-2. De-zip the file 
-3. find the **2D_game_first.exe** and open it !!
+### 🔹 Steps to Run
+1. Clone or download this repository from GitHub
+2. Open **Unity Hub**
+3. Click **Open Project**
+4. Select the project folder that contains:
+   - `Assets`
+   - `Packages`
+   - `ProjectSettings`
+5. Unity will automatically generate missing folders (`Library`, `Temp`, etc.)
+6. Open the main scene:
+   `Assets/Scenes/MainScene.unity`
+7. Click the ▶️ **Play** button to start the game
+
+### ⚠️ Notes
+- First launch may take a few minutes while Unity builds cache
+- If Unity asks for an editor version, choose the closest **LTS version**
 
 ---
 
