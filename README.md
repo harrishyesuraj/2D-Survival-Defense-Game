@@ -2,7 +2,7 @@
 
 A fast-paced **2D survival defense game** developed in **Unity and C#**, where the player protects a core object from waves of enemies while surviving as long as possible.
 
-[Gameplay Demo Video]((https://github.com/harrishyesuraj/2D-Survival-Defense-Game/releases/tag/v1.0))
+[Gameplay Demo Video](https://github.com/harrishyesuraj/2D-Survival-Defense-Game/releases/tag/v1.0)
 
 
 ---
