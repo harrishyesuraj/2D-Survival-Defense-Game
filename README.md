@@ -2,7 +2,7 @@
 
 A fast-paced **2D survival defense game** developed in **Unity and C#**, where the player protects a core object from waves of enemies while surviving as long as possible.
 
-[Gameplay Demo Video]([https://youtu.be/ZEtKg9AyEJc](https://github.com/harrishyesuraj/2D-Survival-Defense-Game/releases/tag/v1.0))
+[Gameplay Demo Video]((https://github.com/harrishyesuraj/2D-Survival-Defense-Game/releases/tag/v1.0))
 
 
 ---
@@ -71,11 +71,11 @@ A fast-paced **2D survival defense game** developed in **Unity and C#**, where t
 
 ## 🔧 How to Run
 1. Clone the repository
-2. Open in **Unity 2021 or later**
-3. Open **MainScene** and press Play
+2. De-zip the file 
+3. find the **2D_game_first.exe** and open it !!
 
 ---
 
 ## 👥 Contributors
-- **Solo Developer:** Your Name  
+- **Solo Developer:** HARRISH YESURAJ P  
 - Main contributors featured in the video: [Watch here](https://youtu.be/ZEtKg9AyEJc)
